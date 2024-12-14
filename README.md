@@ -89,7 +89,8 @@ Este projeto consiste em uma simulação de phishing educacional utilizando o Ka
 - As credenciais capturadas serão exibidas no terminal.
 - **Exemplo:**
   ```
-![image](https://github.com/user-attachments/assets/d3648089-c2f4-4294-86ae-82fb72879c7b)
+![image](https://github.com/user-attachments/assets/0d417887-306e-4198-9834-b559a876b9eb)
+
 
   ```
 
